@@ -4,8 +4,10 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Theoretical and Application Discrepancies of Stochasticity in Optimal Control](/sample_page)
+Theoretical and Application Discrepancies of Stochasticity in Optimal Control
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+<https://github.com/rafeemusabbir/StochasticOptimalControl>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
