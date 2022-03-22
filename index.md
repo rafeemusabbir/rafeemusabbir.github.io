@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Theoretical and Application Discrepancies of Stochasticity in Optimal Control](/sample_page)
-Theoretical and Application Discrepancies of Stochasticity in Optimal Control
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 <https://github.com/rafeemusabbir/StochasticOptimalControl>
 
